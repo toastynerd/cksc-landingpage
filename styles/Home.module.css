@@ -3,7 +3,7 @@
   padding: 0 0.5rem;
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  justify-content: start;
   align-items: center;
 }
 
@@ -128,9 +128,8 @@
 }
 
 .signUp {
-  max-width: 55vh;
   text-align: center;
-  width: 100%;
+  width: 80%;
   background-color: #ddd;
   padding: 1em;
   border: 1px solid #000; 
